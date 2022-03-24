@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d61e21</color>
+    <color name="colorPrimaryDark">#780000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="FundoNetFlix">#25232B</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palomakoba</string>
+    <string name="menu_message">Menu message</string>
+    <string name="menu_volume">Menu volume</string>
+    <string name="menu_classificacao">Menu Classificacao</string>
+    <string name="menu_epsodio">Menu epsodio</string>
+</resources>
